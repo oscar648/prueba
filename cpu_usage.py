@@ -9,3 +9,6 @@ def check_cpu_usage(percent):
     else:
     print(" ok :)")
     print("metodo de prueba")
+
+
+print (" ediccion en el metodo :( )")
